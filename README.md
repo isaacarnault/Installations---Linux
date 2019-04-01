@@ -9,9 +9,12 @@ To check your OS version, execute `$ lsb_release -a` in your Terminal.
 
 ## Installations
 1. MongoDB - done
-2. Apache Nifi - done
-3. Neo4j - upcoming
+2. Neo4j - done
+3. Apache Nifi - done
 4. Talend - upcoming
+5. Apache Cassandra - upcoming
+6. Zeppelin- upcoming
+...
 
 ### Prerequisites
 
