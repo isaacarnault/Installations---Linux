@@ -13,7 +13,7 @@ To check your OS version, execute `$ lsb_release -a` in your Terminal.
 3. Apache Nifi - done
 4. Talend - upcoming
 5. Apache Cassandra - upcoming
-6. Zeppelin- upcoming
+6. Apache Zeppelin- upcoming
 ...
 
 ### Prerequisites
