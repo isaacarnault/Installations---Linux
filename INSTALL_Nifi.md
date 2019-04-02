@@ -1,5 +1,5 @@
 ### Nifi
-Before you start installing `Neo4j`, perform as follows:<br><br>
+Before you start installing `Nifi`, perform as follows:<br><br>
 `$ javac -version` // make sure you have Oracle `jdk` is installed.<br>I recommend `java 1.8.0`. See[Prerequisites](https://gist.github.com/isaacarnault/19979a97be64192bb15b7b5e2e351889#prerequisites) for install<br>
 Now, you are ready to install `Nifi`.<br>
 `$ mkdir nifi` // creates a new directory<br>
