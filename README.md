@@ -1,6 +1,6 @@
 # Big Data and Data Science - Tools installation (Linux)
 
-[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 I'd like to provide some effective directions regarding installations you may need to perform to try `Big Data` major tools.<br>
 The following gist is exclusively intended to `Linux` users.<br>
