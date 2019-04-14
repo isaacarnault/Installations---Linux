@@ -26,9 +26,9 @@ To uninstall effectively your current `jdk`, perform this:<br>
 `$ sudo apt-get purge --auto-remove openjdk*`<br>
 
 To install `java 1.8.0`, Open Terminal `Ctrl+Alt+T` and run the command:<br>
-`$  sudo add-apt-repository ppa:webupd8team/java*` // adds PPA repository<br>
-`$  sudo apt update` // updates your environment<br>
-`$ sudo apt install oracle-java8-installer*` // installs java8 installer<br><br>
+`$  sudo add-apt-repository ppa:webupd8team/java` // adds PPA repository<br>
+`$  sudo apt-get update` // updates package list<br>
+`$  sudo apt-get install oracle-java8-installer` // installs openjdk<br><br>
 [![java-8.png](https://i.postimg.cc/yNvqZ0dM/java-8.png)](https://postimg.cc/cKg5qgfh)<br>
 `$  javac -version` // shows your new java version
 
