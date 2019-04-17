@@ -7,6 +7,6 @@
 [![isaac-arnault-zeppelin-1.png](https://i.postimg.cc/vZXg91wJ/isaac-arnault-zeppelin-1.png)](https://postimg.cc/682pxp3c)
 `$ cd zeppelin-0.8.1-bin-all` // access to binary files<br><br>
 [![isaac-arnault-zeppelin-2.png](https://i.postimg.cc/jSRnLHm6/isaac-arnault-zeppelin-2.png)](https://postimg.cc/F7nH6L91)
-`$ bin /zeppelin-daemon.sh start` // starting the service <br><br>
+`$ bin/zeppelin-daemon.sh start` // starting the service <br><br>
 Access zeppelin from http://localhost:8080.<br><br>
 [![isaac-arnault-zeppelin.png](https://i.postimg.cc/QNBtt4tZ/isaac-arnault-zeppelin.png)](https://postimg.cc/s1ryHJ7T)
