@@ -14,4 +14,4 @@ You can access `Nifi` from the following url: http://localhost:8080/nifi // wait
 <br>
 `$ bin/nifi.sh status` // status of the service - run it in another tab<br>
 `$ bin/nifi.sh stop` // stops the service - run it in another tab<br>
-`$ bin/nifi.sh start` // starts the service - run it in another tab<br>
+`$ bin/nifi.sh start` // starts the service - run it in another tab
