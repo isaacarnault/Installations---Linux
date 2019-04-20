@@ -13,4 +13,5 @@ You can access `Nifi` from the following url: http://localhost:8080/nifi // wait
 [![isaac-arnault-nifi-2.png](https://i.postimg.cc/T2nfQ7kx/isaac-arnault-nifi-2.png)](https://postimg.cc/Th2z39MN)
 <br>
 `$ bin/nifi.sh status` // status of the service - run it in another tab<br>
-`$ bin/nifi.sh status` // stops the service - run it in another tab<br>
+`$ bin/nifi.sh stop` // stops the service - run it in another tab<br>
+`$ bin/nifi.sh restart` // restarts the service - run it in another tab<br>
